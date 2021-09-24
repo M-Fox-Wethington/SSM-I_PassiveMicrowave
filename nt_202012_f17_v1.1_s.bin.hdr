@@ -1,0 +1,11 @@
+ENVI
+description = {nt_202012_f17_v1.1_s.bin}
+samples = 316
+lines   = 332
+bands   = 1
+header offset = 300
+file type = ENVI Standard
+data type = 1
+interleave = bsq
+byte order = 0
+map info = {Polar Stereographic, 1, 1, -3950000, 4350000, 25000, 25000} projection info = {31, 6378273, 6356889.449,  70, 0, 0, 0, Polar Stereographic} coordinate system string =  PROJCS["Stereographic_South_Pole",GEOGCS["GCS_unnamed ellipse",DATUM["D_unknown",SPHEROID["Unknown",6378273,298.279411123064]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Stereographic_South_Pole"],PARAMETER["standard_parallel_1",-70],PARAMETER["central_meridian",0],PARAMETER["false_easting",0],PARAMETER["false_northing",0],UNIT["Meter",1]]} band names = {Band 1}
